@@ -34,7 +34,7 @@ electricity-bill-calculator-backend/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/electricity-bill-calculator-backend.git
+   git clone https://github.com/RahulRajesh2001/ElectricityBillCalculatorBackend.git
 
 
 2. **Navigate Directory:**
